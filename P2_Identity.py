@@ -29,3 +29,13 @@ def gap(a,b):
     return(a,b)
 
 find_identity(seq1,seq2)
+
+
+//output:
+Enter the First sequence::ACTGCATG
+Enter the Second sequence::ACTGACTG
+['A', 'C', 'T', 'G', 'C', 'A', 'T', 'G']
+['A', 'C', 'T', 'G', 'A', 'C', 'T', 'G']
+Matching Score:: 16
+Identity of the Sequences:: 25.0
+> 
