@@ -25,5 +25,21 @@ def compare(o,t,s):
     #calculating similarity
     similarity= (score*100)/len(o)
     return similarity
-
 print(compare(list(sequence_one),list(sequence_two),similarities),"%") 
+
+
+
+
+        
+//OUTPUT:
+Enter the first sequence: ACTGACTG
+Enter the second sequence: CGTACGTA
+How many elements for similarity condition?1
+Enter an element: A
+How many elements is it similar to? 1
+What is it similar to? C
+['A', 'C', 'T', 'G', 'A', 'C', 'T', 'G']
+['C', 'G', 'T', 'A', 'C', 'G', 'T', 'A']
+[['A', 'C']]
+25.0 %
+> 
