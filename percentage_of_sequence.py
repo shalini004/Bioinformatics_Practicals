@@ -58,3 +58,22 @@ print("Gap in the sequence",total_gap)
 pergetage_of_sequence=(total/(len(seq1)- total_gap))*100
 print("Pergetage of sequence are::",pergetage_of_sequence,"%")
 
+//output:
+Enter the First sequence::ADCNSR--LCRPM                                                                                                         
+Enter the Second sequence::ASCSNRCKCRDP-                                                                                                        
+How many elements for similarity condition?2                                                                                                    
+Enter an element: S                                                                                                                             
+How many elements is it similar to? 2                                                                                                           
+What is it similar to? N                                                                                                                        
+What is it similar to? C                                                                                                                        
+Enter an element: D                                                                                                                             
+How many elements is it similar to? 1                                                                                                           
+What is it similar to? R                                                                                                                        
+['A', 'D', 'C', 'N', 'S', 'R', '-', '-', 'L', 'C', 'R', 'P', 'M']                                                                               
+['A', 'S', 'C', 'S', 'N', 'R', 'C', 'K', 'C', 'R', 'D', 'P', '-']                                                                               
+[['S', 'N', 'C'], ['D', 'R']]                                                                                                                   
+similarity of the Sequences:: 3                                                                                                                 
+identity of the Sequences:: 4                                                                                                                   
+Gap in the sequence 3                                                                                                                           
+Pergetage of sequence are:: 70.0 % 
+
