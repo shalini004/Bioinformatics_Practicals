@@ -41,8 +41,8 @@ Enter the second sequence::TCGAGCA
 ['T', 'C', 'G', 'A', 'G', 'C', 'A']
 ['0', '0', '1', '0', '1', '1', '0']
 3
-
 >
+
 Enter the first sequence::ACTGACGTA
 Enter the second sequence::CGATGCAA
 Enter the position to insert::3
@@ -50,3 +50,4 @@ Enter the position to insert::3
 ['C', 'G', 'A', '-', 'T', 'G', 'C', 'A', 'A']
 ['0', '0', '0', '0', '0', '0', '0', '0', '1']
 1
+>
