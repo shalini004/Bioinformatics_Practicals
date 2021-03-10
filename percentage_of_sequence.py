@@ -76,4 +76,5 @@ similarity of the Sequences:: 3
 identity of the Sequences:: 4                                                                                                                   
 Gap in the sequence 3                                                                                                                           
 Pergetage of sequence are:: 70.0 % 
+>
 
