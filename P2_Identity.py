@@ -39,3 +39,4 @@ Enter the position to insert gap::2
 ['T', 'A', '-', 'C', 'G', 'T', 'A', 'A']
 Matching Score:: 14
 Identity of the Sequences:: 21.875
+>
